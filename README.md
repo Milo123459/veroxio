@@ -70,4 +70,4 @@ I hope this module can help you!
 
 **Written by Salvage_Dev with love <3**
 <br><br>
-Please note!
+Please note! If you have a suggestion, please create an issue in the github repo and I will read it.

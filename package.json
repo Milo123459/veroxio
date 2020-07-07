@@ -1,6 +1,6 @@
 {
   "name": "veroxio",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Simple yet powerful JavaScript white space parser.",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,6 @@
     "parser"
   ],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": "Milo123459/veroxio"
 }
